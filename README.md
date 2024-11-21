@@ -12,13 +12,7 @@ This project is a sentiment analysis app built with Hugging Face Transformers an
    ```bash
    git clone https://github.com/iamomtiwari/huggingface-demo.git
    cd huggingface-demo
-2.Create a virtual environment:
-   ```bash
    python3 -m venv venv
    source venv/bin/activate
-3.Install dependencies:
-   ```bash
    pip install -r requirements.txt
-4.Run the application:
-   ```bash
    python app.py
